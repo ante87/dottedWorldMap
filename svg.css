@@ -1,0 +1,19 @@
+body {
+    margin:0px;
+    background-color: #7f7f7f;
+}
+svg {
+    min-width:1000px;
+    min-height:500px;
+    max-width:auto;
+    max-height:auto;
+    position:relative;
+}
+svg circle {
+    fill:#4c4c4c;
+}
+.content {
+    height:100%;
+    width:100%;
+    overflow: hidden;
+}
